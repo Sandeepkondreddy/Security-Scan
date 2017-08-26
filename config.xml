@@ -3,7 +3,7 @@
     <name>Security Scan</name>
     <description>Visitor and Employee Pass Scan is a mobile app to scan using qr code to display visitor and blocked employee details. It is developed for Krishnapatnam Port Company Ltd.</description>
     <author href="http://www.krishnapatnamport.com" email="epms_support@krishnapatnamport.com">Krishnapatnam Port Company Ltd.</author>
-    <content src="home2.html"/>
+    <content src="home1.html"/>
     <preference name="permissions" value="none"/>
     <preference name="orientation" value="portrait"/>
     <preference name="target-device" value="universal"/>
